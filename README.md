@@ -1,13 +1,5 @@
 Our project is contructed of two parts: the HumanEval dataset and the Leetcode evaluation.
 
-# Utils
-
-This folder includes all the python script we used to analyze the LeetCode dataset for GPT-4 and Gemini.
-
-# Figs
-
-All the figures we used in the report.
-
 # HumanEval
 
 This is an evaluation harness for the HumanEval problem solving dataset
@@ -58,3 +50,15 @@ out", or "failed".
   primaryClass={cs.LG}
 }
 ```
+
+# leetcode.xlsx
+
+54 leetcode questions to test LLMs' performance and result
+
+# Utils
+
+This folder includes all the python script we used to analyze the LeetCode dataset for GPT-4 and Gemini.
+
+# Figs
+
+All the figures we used in the report.
